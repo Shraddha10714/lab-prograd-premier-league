@@ -7,6 +7,7 @@ let trophiesWon = 27;
 //Write your function here
 
 // Don't edit the following code
+
 try {
   var manager = createManager(
     managerName,
